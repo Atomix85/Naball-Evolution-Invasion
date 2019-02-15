@@ -1,0 +1,32 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                  Bienvenue sur l'Ile Cosmologique ! """,
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """  D'ici, tu pourras accèder au 4 coins de l'Univers. Là, où les Clims Bleus
+                         sont tombés après l'Invasion.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """    Dans un premier temps, cherche l'entrée vers la prairie des eaux.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """          Entre dans le portail étoilé et tu y seras téléporté.""",
+		"isQuestion" : False
+	},
+	"dlg5" : {
+		"color" : "O",
+		"text" : """  Désormais, tu n'auras plus de flèche pour te guider. Tu devras donc  
+                                réfléchir.""",
+		"isQuestion" : False
+	},
+	
+	"dlg6" : "Stop",
+}

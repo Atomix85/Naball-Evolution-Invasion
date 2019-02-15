@@ -1,0 +1,19 @@
+{	
+	"__INIT__": "und1Instance",
+	"und.colToPart2": {
+		"Naball_gerUnderground": [-168,179,-88],
+		"under.cam": [-165,200,-89]
+	},
+	"und.lavaOcean": {
+		"Naball_gerUnderground": [-168,179,-88],
+		"under.cam": [-165,200,-89]
+	},
+	"under.lavafall2": {
+		"Naball_gerUnderground": [-168,179,-88],
+		"under.cam": [-185,187,-86]
+	},
+	"und.colToPart3": {
+		"Naball_gerUnderground": [37,108,-11],
+		"under.cam": [100,120,28]
+	}
+}

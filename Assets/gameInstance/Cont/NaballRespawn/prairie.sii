@@ -1,0 +1,11 @@
+{	
+	"__INIT__": "gerInstance",
+	"Prairie.limit": {
+		"Naball_Prairie": [123,253,13],
+		"Prairie.Cam": [119,277,22]
+	},
+	"Prairie.lake": {
+		"Naball_Prairie": [-30,234,25],
+		"Prairie.Cam": [-22,218,26]
+	}
+}

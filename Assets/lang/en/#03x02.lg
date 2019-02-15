@@ -1,0 +1,27 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                      You just get the power of Eta.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """  Thanks to it, you can shoot energy balls on ennemies, on targets,
+                                     on cages...""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """As you approach these objects, you will automatically pass on fighting
+                  mode and your shoots will be targeted.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """                            Then, to shoot, press C.""",
+		"isQuestion" : False
+	},
+	
+	"dlg5" : "Stop",
+}

@@ -1,0 +1,1 @@
+Static Initial Instance is the JSON encode of Python's dictionnary

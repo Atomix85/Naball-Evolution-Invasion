@@ -1,0 +1,29 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """Tu viens d'obtenir le pouvoir de l'Eta.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """Grâce à ce pouvoir, tu pourras tirer des boules magiques sur des ennemis, 
+
+                        des cibles, des cages...""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """En t'approchant de ces objets, tu passeras automatiquement en mode 
+
+                   combat et tes tirs seront ciblés.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """Ensuite, pour tirer, presse la touche C.""",
+		"isQuestion" : False
+	},
+	
+	"dlg5" : "Stop",
+}

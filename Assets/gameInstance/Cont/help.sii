@@ -1,0 +1,55 @@
+{	
+	"__INIT__": "helpInstance",
+	"tuto1" : {
+		"name" : "Tutorial n°1 : Deplacement",
+		"dlgInvoke" : "#01x01.lg",
+		"startAt" : 7
+	},
+	"tuto2" : {
+		"name" : "Tutorial n°2 : Courrir",
+		"dlgInvoke" : "#01x05.lg",
+		"startAt" : 0
+	},
+	"tuto3" : {
+		"name" : "Tutorial n°3 : Controls de la caméra",
+		"dlgInvoke" : "#03x05.lg",
+		"startAt" : 0
+	},
+	"tuto4" : {
+		"name" : "Tutorial n°4 : Saut",
+		"dlgInvoke" : "#03x01.lg",
+		"startAt" : 1
+	},
+	"tuto5" : {
+		"name" : "Tutorial n°5 : Le pouvoir de l'Eta",
+		"dlgInvoke" : "#03x02.lg",
+		"startAt" : 1
+	},
+	"tuto6" : {
+		"name" : "Tutorial n°6 : Le pouvoir du Solidify",
+		"dlgInvoke" : "#05x02.lg",
+		"startAt" : 0
+	},
+	"tuto7" : {
+		"name" : "Tutorial n°7 : Le pouvoir du Vol",
+		"dlgInvoke" : "#06x01.lg",
+		"startAt": 0
+	},
+	"tuto8" : {
+		"name" : "Tutorial n°8 : Changer de pouvoir actif",
+		"dlgInvoke" : "tuto8.lg",
+		"startAt" : 0
+	},
+	"tuto9" : {
+		"name" : "Tutorial n°9 : Combattre un Terioriam",
+		"dlgInvoke" : "#03x03.lg",
+		"startAt" : 0
+	},
+	"tuto10" : {
+		"name" : "Tutorial n°10 : Combattre un vaisseau",
+		"dlgInvoke" : "tuto10.lg",
+		"startAt":0
+	},
+	"nbTuto": 10
+	
+}

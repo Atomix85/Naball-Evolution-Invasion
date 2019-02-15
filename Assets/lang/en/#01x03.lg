@@ -1,0 +1,32 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                  I see that you set free an Arialien.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """          Like the blue Clims, breaking cages is very important.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """    Indeed, for each broken cage, the Arialien jailed will give you 10
+                                    of them.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """In this world, you have to set free 7 Arialiens. Indeed, you can win 70
+                               of the 161 Clims.""",
+		"isQuestion" : False
+	},
+	"dlg5" : {
+		"color" : "O",
+		"text" : """        Without forgetting that the Arialiens can give you one life
+                                supplementary.""",
+		"isQuestion" : False
+	},
+	"dlg6" : "Stop",
+}

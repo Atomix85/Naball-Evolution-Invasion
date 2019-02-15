@@ -1,0 +1,28 @@
+{	
+	"__INIT__": "prisonInstance",
+	#rotDown = [1,2], rotRight = [0,2], rotLeft = [0,5], rotUp = Can't
+	"default": {
+		"position" : [0,0,0],
+		"rotation" : [0,0,0]
+	},
+	"a0" : {
+		"position" : [55,-15,14],
+		"rotation" : [1,2]
+	},
+	"a1" : {
+		"position" : [9,-49,3],
+		"rotation" : [1,2]
+	},
+	"a2" : {
+		"position" : [-12,-75,9],
+		"rotation" : [1,2]
+	},
+	"a3" : {
+		"position" : [-147,-127,-4],
+		"rotation" : [1,2]
+	},
+	"a4" : {
+		"position" : [0,0,0],
+		"rotation" : [1,2]
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                              Nab...Naball..........""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """                 Je m'appelle Helpi et suis là pour te guider.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """                  Tu ne me vois pas car je te parle en pensée.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """                    Tu vois la dalle juste en dessous de toi.""",
+		"isQuestion" : False
+	},
+	"dlg5" : {
+		"color" : "O",
+		"text" : """                  C'est une dalle magique reliée aux dimensions.""",
+		"isQuestion" : False
+	},
+	"dlg6" : {
+		"color" : "O",
+		"text" : """   Elle te permettra d'obtenir des nouveaux pouvoirs tout au long de
+
+            l'aventure grâce aux Atomiums que tu pourras trouver.""",
+		"isQuestion" : False
+	},
+	"dlg7" : {
+		"color" : "O",
+		"text" : """       Et je t'annonce déjà que tu viens d'obtenir le pouvoir Alpha.""",
+		"isQuestion" : False
+	},
+	"dlg8" : {
+		"color" : "O",
+		"text" : """   Ce pouvoir te permet de te déplacer avec les flèches directionnelles.""",
+		"isQuestion" : False
+	},
+	"dlg9" : {
+		"color" : "O",
+		"text" : """                     Pour avancer, presse la flèche du haut.""",
+		"isQuestion" : False
+	},
+	"dlg10" : {
+		"color" : "O",
+		"text" : """       Si tu veux tourner, presse les flèches de côté correspondante.""",
+		"isQuestion" : False
+	},
+	"dlg11" : "Stop",
+}

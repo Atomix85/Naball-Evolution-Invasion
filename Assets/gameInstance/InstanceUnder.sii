@@ -1,0 +1,29 @@
+{	
+	"__INIT__": "prisonInstance",
+	"clims":
+	{
+		"clim1": 0,
+		"clim2": 0,
+		"clim3": 0,
+		"clim4": 0,
+		"clim5": 0,
+		"clim6": 0,
+		"clim7": 0,
+		"clim8": 0
+	},
+	"ato": 0,
+	"alr": 0,
+	"alrZone":
+	{
+		"zone1": 0,
+		"zone2": 0
+	},
+	"obj":
+	{
+		"obj1": 0,
+		"obj2": 0
+	},
+	"cages":{
+		"cage1": 0
+	}
+}

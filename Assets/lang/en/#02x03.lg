@@ -1,0 +1,19 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """Congratulations! Now, the access to the City of Terrioriams is possible.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """         Crosses a marshy area of the island and the water lilies.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """     Finally climb the cliff, the entrance is just before the lava fall.""",
+		"isQuestion" : False
+	},
+	"dlg4" : "Stop",
+}

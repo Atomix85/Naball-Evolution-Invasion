@@ -1,0 +1,20 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                         You just get the Solidify power.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """                 It allows you to transform the lava to rock.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """                 Find a source of lava, I'll explain how to do.""",
+		"isQuestion" : False 
+	},
+	
+	"dlg4" : "Stop",
+}

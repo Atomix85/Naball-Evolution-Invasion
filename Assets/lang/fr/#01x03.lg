@@ -1,0 +1,32 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """Je vois que tu as libérer un Arialien.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """Comme les Clims bleus, casser des cages c'est très important.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """En effet, dans chaques cages brisées, l'Arialien enfermé t'offrira
+                             10 Clims bleus.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """Et tu auras en tout 7 Arialiens à libérer. Tu pourras donc potentiellement
+                 gagner 70 Clims sur les 161 en tout.""",
+		"isQuestion" : False
+	},
+	"dlg5" : {
+		"color" : "O",
+		"text" : """Sans oublier que parfois les Arialiens peuvent t'offrir de la vie
+                             supplémentaire.""",
+		"isQuestion" : False
+	},
+	"dlg6" : "Stop",
+}

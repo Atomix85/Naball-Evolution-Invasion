@@ -1,0 +1,33 @@
+{	
+	"__INIT__": "desert1Instance",
+	"clims":
+	{
+		"clim1": 0,
+		"clim2": 0,
+		"clim3": 0,
+		"clim4": 0,
+		"clim5": 0,
+		"clim6": 0,
+		"clim7": 0,
+		"clim8": 0,
+		"clim9": 0,
+		"clim10": 0,
+		"clim11": 0,
+		"clim12": 0,
+		"clim13": 0,
+		"clim14": 0,
+		"clim15": 0,
+	},
+	"ato": 0,
+	"alr": 0,
+	"cages":
+	{
+		"cage1": 0,
+		"cage2": 0
+	},
+	"obj":
+	{
+		"obj1": 0,
+		"obj2": 0
+	},
+}

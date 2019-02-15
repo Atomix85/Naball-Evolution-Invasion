@@ -1,0 +1,11 @@
+{
+	"__INIT__":"Hud",
+	"nbClim":0,
+	"nbCage":0,
+	"nbAto":1,
+	"nbXp":0,
+	"lifeDyn":5,
+	"lifeMax":20,
+	"gamemode":1,
+	"haveLilySeed":False,
+}

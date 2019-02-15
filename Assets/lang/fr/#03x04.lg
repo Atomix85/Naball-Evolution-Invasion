@@ -1,0 +1,20 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """          Regarde Naball, un Clim rouge est apparu.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """   Ils te seront nécessaire à la restauration de ta santé.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """   A chaque Clim rouge ramassé, tu gagneras un point de vie.""",
+		"isQuestion" : False
+	},
+	
+	"dlg4" : "Stop",
+}

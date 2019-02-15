@@ -1,0 +1,21 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """       Cette particule qui ressemble à un Clim bleu est un Clim blanc.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """    Ils te permettent d'activer des mécanismes ou d'invoquer des objets.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """Ils ont été conçus par les Terioriams donc méfie-toi parfois qu'il n'est pas
+
+                            un effet indésirable.""",
+		"isQuestion" : False
+	},
+	"dlg4" : "Stop",
+}

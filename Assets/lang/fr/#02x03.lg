@@ -1,0 +1,19 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """Bravo ! A présent, l'accès à la Cité des Terrioriams est possible.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """Traverse la zone marécageuse de l'Ile puis les nénuphares.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """Enfin grimpe la falaise, l'entrée se trouve juste avant la chute de lave.""",
+		"isQuestion" : False
+	},
+	"dlg4" : "Stop",
+}

@@ -1,0 +1,10 @@
+{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "R",
+		"text" : "                            Fonctionnalité bientôt disponible.",
+		"isQuestion" : False
+		}
+	},
+	"dlg2" : "Stop"
+}

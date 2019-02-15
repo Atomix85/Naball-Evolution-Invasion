@@ -1,0 +1,30 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                Je vois que tu as trouvé un Clims bleu.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """    Les Clims bleus sont les morceaux de l'énergie d'Arial séparé lors de 
+                          l'invasion des Terioriams.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """ Au cours de ton aventure, tu pourras en trouver au nombre de 161 en tout.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """      Il faudra que tu ouvres l'oeil car ils sont très importants.""",
+		"isQuestion" : False
+	},
+	"dlg5" : {
+		"color" : "O",
+		"text" : """En effet, ils te permettront d'accéder à des lieux cachés et mystérieux.""",
+		"isQuestion" : False
+	},
+	"dlg6" : "Stop",
+}

@@ -1,0 +1,7 @@
+1) Choisissez une texture 
+2) Renommez la texture "Pack_texture_Naball_default" en "Pack_texture_Naball_black"
+3) Puis renommez votre nouvelle texture en "Pack_texture_Naball_default"
+4) Demarrez votre jeu et la, magie
+
+Si vous avez deja modifier la texture, NE REMPLACEZ PAS par "Pack_texture_Naball_black" mais
+par "Pack_texture_Naball_'Couleur de la texture'".

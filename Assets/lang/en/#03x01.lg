@@ -1,0 +1,25 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                        You just get the power Altopy.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """                              It allows you to jump.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """                   To jump, stay pressed on the space bar""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """    More you stay pressed on it, more you will be able to jump high.""",
+		"isQuestion" : False
+	},
+	
+	"dlg5" : "Stop",
+}

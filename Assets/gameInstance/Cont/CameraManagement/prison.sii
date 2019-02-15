@@ -1,0 +1,8 @@
+{	
+	"__INIT__": "und1Instance",
+	"SensorCamPrison": "prison.cam2",
+	"SensorCamPrison-1": "Camera",
+	"SensorCamPrison2": "prison.cam3",
+	"SensorCamPrison3": "prison.cam4",
+	"SensorCamPrison4":"Camera",
+}

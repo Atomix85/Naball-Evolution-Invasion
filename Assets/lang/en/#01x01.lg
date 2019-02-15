@@ -1,0 +1,55 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                                   Nab...Naball..........""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """                My name is Helpi and I am here to advise you.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """            You can't see me because I speak you in thought.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """                   Do you see the slab just under you ?""",
+		"isQuestion" : False
+	},
+	"dlg5" : {
+		"color" : "O",
+		"text" : """       It's a magical slab connected to the others dimensions.""",
+		"isQuestion" : False
+	},
+	"dlg6" : {
+		"color" : "O",
+		"text" : """It will allow you to get new power during you travel thanks to the
+                        Atomiums you will find.""",
+		"isQuestion" : False
+	},
+	"dlg7" : {
+		"color" : "O",
+		"text" : """                       You already got the Alpha power.""",
+		"isQuestion" : False
+	},
+	"dlg8" : {
+		"color" : "O",
+		"text" : """                Now you can move with the arrow keys.""",
+		"isQuestion" : False
+	},
+	"dlg9" : {
+		"color" : "O",
+		"text" : """                      To walk, press the up arrow.""",
+		"isQuestion" : False
+	},
+	"dlg10" : {
+		"color" : "O",
+		"text" : """       If you want to turn, press the corresponding side arrow.""",
+		"isQuestion" : False
+	},
+	"dlg11" : "Stop",
+}

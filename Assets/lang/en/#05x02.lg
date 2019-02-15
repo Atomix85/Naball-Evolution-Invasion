@@ -1,0 +1,28 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """    To use the power of Solidify, remains pressed the E key and select
+                        Solidify with the mouse wheel.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """                 You can now touch the lava without dying.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """You can also move you on by going to the menu of power and selecting
+                                 the Eta power.""",
+		"isQuestion" : False 
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """     You will not have to pull in the opposite direction of where you
+                                  want to go.""",
+		"isQuestion" : False
+	},
+	
+	"dlg5" : "Stop",
+}

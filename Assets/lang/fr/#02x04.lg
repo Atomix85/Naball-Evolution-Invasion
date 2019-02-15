@@ -1,0 +1,14 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """           Bravo ! A présent, l'accès au desert rocheux est possible.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """                 Son entrée se trouve juste après la chute de lave.""",
+		"isQuestion" : False
+	},
+	"dlg3" : "Stop",
+}

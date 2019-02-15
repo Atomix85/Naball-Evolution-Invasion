@@ -1,0 +1,38 @@
+{	
+	"__INIT__": "gerInstance",
+	"clims":
+	{
+		"clim1": 0,
+		"clim2": 0,
+		"clim3": 0,
+		"clim4": 0,
+		"clim5": 0,
+		"clim6": 0,
+		"clim7": 0,
+		"clim8": 0,
+		"clim9": 0,
+		"clim10": 0,
+		"clim11": 0,
+		"clim12": 0,
+		"clim13": 0,
+		"clim14": 0,
+		"clim15": 0,
+		"clim16": 0,
+		"clim17": 0,
+		"clim18": 0,
+		"clim19": 0,
+		"clim20": 0
+	},
+	"ato": 0,
+	"alr": 0,
+	"alrZone":
+	{
+		"zone1": 0,
+		"zone2": 0
+	},
+	"obj":
+	{
+		"obj1": 0,
+		"obj2": 0
+	},
+}

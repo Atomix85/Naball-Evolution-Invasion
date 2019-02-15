@@ -1,0 +1,20 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                          Voici un Clim violet.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """       Grâce à son pouvoir, tu pourras voler pendant environ 2 secondes.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """             Pour celà, récupère-le et presse la barre d'espacement.""",
+		"isQuestion" : False
+	},
+	
+	"dlg4" : "Stop",
+}

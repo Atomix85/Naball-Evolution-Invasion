@@ -1,0 +1,21 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """Attention Naball ! Il y a un Terioriam droit devant et tu vas 
+
+                             devoir l'affronter.""",
+		"isQuestion" : False
+	},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """Pour cela, approche-toi de lui et tire avec la touche C.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """Essaye d'éviter ces tires et son contact.""",
+		"isQuestion" : False
+	},
+	"dlg3" : "Stop",
+}

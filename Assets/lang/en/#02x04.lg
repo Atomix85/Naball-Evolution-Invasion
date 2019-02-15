@@ -1,0 +1,14 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """     Congratulations! Now, the access to the magmatic fault is possible.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """                     The entrance is just past the lava fall.""",
+		"isQuestion" : False
+	},
+	"dlg3" : "Stop",
+}

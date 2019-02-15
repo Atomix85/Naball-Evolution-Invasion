@@ -1,0 +1,20 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                    Tu viens d'obtenir le pouvoir Solidify.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """            Il te permet de pouvoir transformé la lave en roche.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """         Trouve une source de lave, je t'expliquerai comment faire.""",
+		"isQuestion" : False
+	},
+	
+	"dlg4" : "Stop",
+}

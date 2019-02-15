@@ -1,0 +1,11 @@
+{
+	"objects":{
+		"und.lavaOcean":"own",
+		"und.map2.rock":"own",
+		"under.map2":"own",
+		"und.lum1.001":"own",
+		"under.lavafall2" : "own",
+		"under.lavafall" : "own",
+		"und.lavaLake":"own",
+	}
+}

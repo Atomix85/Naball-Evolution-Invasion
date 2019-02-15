@@ -1,0 +1,15 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """                 Tu peux faire tourner la caméra autour de toi.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """Pour celà, presse A pour qu'elle tourne vers la gauche et Z pour la droite.""",
+		"isQuestion" : False
+	},
+	
+	"dlg3" : "Stop",
+}

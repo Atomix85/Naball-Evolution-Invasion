@@ -1,0 +1,25 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """Tu viens d'obtenir le pouvoir Altopy.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """Il te permet tout simplement de sauter.""",
+		"isQuestion" : False
+	},
+	"dlg3" : {
+		"color" : "O",
+		"text" : """Pour cela, reste appuyer sur la barre d'espacement.""",
+		"isQuestion" : False
+	},
+	"dlg4" : {
+		"color" : "O",
+		"text" : """Plus tu resteras appuyer, plus tu pourras sauter haut.""",
+		"isQuestion" : False
+	},
+	
+	"dlg5" : "Stop",
+}

@@ -1,0 +1,15 @@
+{	
+	"__INIT__": "und1Instance",
+	"swp1.wt1": {
+		"Naball_swamp": [-25,-22,4],
+		"Camera.003": [-25,8,5]
+	},
+	"swp1.wt2": {
+		"Naball_swamp": [-2,-141,4],
+		"Camera.003": [-2,-131,5]
+	},
+	"swp1.wt3": {
+		"Naball_swamp": [17,-341,9],
+		"Camera.003": [17,-331,10]
+	}
+}

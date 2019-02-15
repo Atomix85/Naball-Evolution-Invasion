@@ -1,0 +1,10 @@
+{	
+	"__INIT__": "powerInstance",
+	"Eta" : False,
+	"Move" : False,
+	"Jump" : False,
+	"Solidify" : False,
+	"Fly" : False,
+	"Elect" : False,
+	"Radio" : False,
+}

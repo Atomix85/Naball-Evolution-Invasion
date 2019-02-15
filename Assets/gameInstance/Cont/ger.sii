@@ -1,0 +1,29 @@
+{	
+	"__INIT__": "gerInstance",
+	"cond0": {
+		"Cube": [-8,0,253],
+		"Ger.cam" : [-49,1,8],
+		"Ger.normal" : ["dlg.name", "#02x01.lg"]
+	},
+	"cond1": {
+		"Cube": [-8,0,253],
+		"Ger.cam" : [-49,1,8],
+		"Ger.normal" : ["dlg.name", "#02x01.lg"]
+	},
+	"cond2": {
+		"Cube": [18,40,5],
+		"Ger.cam" : [26,5,14],
+		"Ger.normal" : ["dlg.name", "#02x02.lg"]
+	},
+	"cond3": {
+		"Cube": [18,40,5],
+		"Ger.cam" : [-16,46,10],
+		"Ger.normal" : ["dlg.name", "#02x03.lg"]
+	},
+	"cond4": {
+		"Cube": [18,40,5],
+		"Ger.cam" : [-16,46,30],
+		"Ger.normal" : ["dlg.name", "#02x04.lg"]
+	}
+	
+}

@@ -1,0 +1,16 @@
+﻿{
+	"Dynamic" : True,
+	"dlg1" : {
+		"color" : "O",
+		"text" : """             Le pouvoir Alpha te permettra aussi de pouvoir courrir.""",
+		"isQuestion" : False
+		},
+	"dlg2" : {
+		"color" : "O",
+		"text" : """  Pour celà, reste enfoncé sur la touche Majuscule et déplace-toi avec les
+
+                           flèche de directions.""",
+		"isQuestion" : False
+	},
+	"dlg3" : "Stop",
+}
